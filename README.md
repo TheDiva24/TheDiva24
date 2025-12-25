@@ -1,89 +1,53 @@
-<h2 align="left">Hi 👋! My name is Youssif and I'm a undergraduate Computer engineering from Egypt</h2>
+# Hi there, I'm [Your Name]! 👋 
+### 🛡️ Quality Assurance Engineer | Automation & Manual Testing Specialist
 
-##
+I'm a passionate QA Engineer dedicated to breaking things so they work better for users. I specialize in building robust automation frameworks and ensuring high-quality software delivery through meticulous manual exploration.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheDiva24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheDiva24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### 🚀 Quick Stats & Impact
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical)
 
-<img align="right" height="140" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2dtdXZiajdweHNkbG51eWlhcnE1Mnk2OWJzNThiYzNreTVtdGQzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9E7kUhnT9eDok/giphy.gif"  />
+---
 
-###
+### 🧪 My Testing Arsenal
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="gimp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Automation** | Selenium, Playwright, Cypress, Appium |
+| **Languages** | Java, Python, JavaScript, TypeScript |
+| **CI/CD** | Jenkins, GitHub Actions, GitLab CI |
+| **Performance** | JMeter, K6 |
+| **API Testing** | Postman, Rest-Assured, Supertest |
+| **Mobile** | Appium, BrowserStack, Espresso |
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <a href="https://www.instagram.com/yousafhany_diva/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=yousafhany_diva&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="472364894386388993" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=youssif_diva&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=yousafhany010@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=+201033466094&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  <a href="https://www.linkedin.com/in/yousaf-h-shreif-a5b42334a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+### 🛠️ What I'm Working On
+- 🔭 I’m currently improving my **Performance Testing** skills with K6.
+- 🌱 Learning more about **Security Testing (OWASP Top 10)**.
+- 👯 I’m looking to collaborate on **Open Source QA Frameworks**.
+- 💬 Ask me about **Shift-Left testing** or **TDD/BDD**.
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/TheDiva24/TheDiva24/output/snake.svg" alt="Snake animation" />
+### 📊 Testing Workflow
 
-###
 
-<div align="center">
-  <img height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtmM3BiMzVmb2o5ZzZpc2FtcTludm15ZGF4YjVwOHlheGR2bG81cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LCKpd2B0kbzSYjlJe2/giphy.gif"  />
-</div>
+1. **Requirement Analysis:** Understanding the "Why" before the "How".
+2. **Test Planning:** Mapping out the strategy and scope.
+3. **Design & Development:** Writing scripts that are scalable and maintainable.
+4. **Execution & Reporting:** Finding bugs and providing actionable insights.
+5. **Closure:** Ensuring the definition of done is met.
 
-###
+---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/TheDiva24/count.svg?"  />
-</div>
+### 📬 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yossifshreif
 
-###
+)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousafhany010@gmail.com)
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Diva">
-    <img src="[https://spotify-recently-played-readme.vercel.app/api?user=31lm6acjpgowx7sx67rmqfdjymtq&width={500}](https://spotify-recently-played-readme.vercel.app/api?user=31lm6acjpgowx7sx67rmqfdjymtq&unique=1)" />
-  </a>
-</div>
-
-###
+---
+*"Quality is not an act, it is a habit." — Aristotle*
