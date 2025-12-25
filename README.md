@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋 
+# Hi there, I'm [Youssif]! 👋 
 ### 🛡️ Quality Assurance Engineer | Automation & Manual Testing Specialist
 
 I'm a passionate QA Engineer dedicated to breaking things so they work better for users. I specialize in building robust automation frameworks and ensuring high-quality software delivery through meticulous manual exploration.
@@ -6,8 +6,8 @@ I'm a passionate QA Engineer dedicated to breaking things so they work better fo
 ---
 
 ### 🚀 Quick Stats & Impact
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Youssif H.Shrief]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Youssif H.Shrief]&layout=compact&theme=radical)
 
 ---
 
@@ -15,12 +15,11 @@ I'm a passionate QA Engineer dedicated to breaking things so they work better fo
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Automation** | Selenium, Playwright, Cypress, Appium |
-| **Languages** | Java, Python, JavaScript, TypeScript |
-| **CI/CD** | Jenkins, GitHub Actions, GitLab CI |
+| **Automation** | Selenium,Cypress, Appium |
+| **Languages** | Java, Python, JavaScript |
 | **Performance** | JMeter, K6 |
-| **API Testing** | Postman, Rest-Assured, Supertest |
-| **Mobile** | Appium, BrowserStack, Espresso |
+| **API Testing** | Postman |
+| **Mobile** | Appium, BrowserStack |
 
 ---
 
@@ -44,9 +43,7 @@ I'm a passionate QA Engineer dedicated to breaking things so they work better fo
 ---
 
 ### 📬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yossifshreif
-
-)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yossifshreif)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousafhany010@gmail.com)
 
 ---
