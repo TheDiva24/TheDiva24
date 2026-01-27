@@ -9,7 +9,7 @@ I'm a passionate QA Engineer dedicated to breaking things so they work better fo
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[TheDiva24]&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[TheDiva24]&layout=compact&theme=radical)
 
----
+--------------
 
 ### 🧪 My Testing Arsenal
 
@@ -24,6 +24,7 @@ I'm a passionate QA Engineer dedicated to breaking things so they work better fo
 ---
 
 ### 🛠️ What I'm Working On
+
 - 🔭 I’m currently improving my **Performance Testing** skills with K6.
 - 🌱 Learning more about **Security Testing (OWASP Top 10)**.
 - 👯 I’m looking to collaborate on **Open Source QA Frameworks**.
@@ -43,6 +44,7 @@ I'm a passionate QA Engineer dedicated to breaking things so they work better fo
 ---
 
 ### 📬 Let's Connect!
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yossifshreif/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousafhany010@gmail.com)
 
