@@ -3,7 +3,7 @@
 
 I'm a passionate QA Engineer dedicated to breaking things so they work better for users. I specialize in building robust automation frameworks and ensuring high-quality software delivery through meticulous manual exploration.
 
----
+--- 
 
 ### 🚀 Quick Stats & Impact
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[TheDiva24]&show_icons=true&theme=radical)
