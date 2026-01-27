@@ -6,8 +6,8 @@ I'm a passionate QA Engineer dedicated to breaking things so they work better fo
 --- 
 
 ### 🚀 Quick Stats & Impact
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[TheDiva24]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[TheDiva24]&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheDiva24&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDiva24&layout=compact&theme=radical)
 
 --------------
 
