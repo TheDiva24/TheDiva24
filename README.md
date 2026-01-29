@@ -15,8 +15,8 @@ I'm a passionate QA Engineer dedicated to breaking things so they work better fo
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Automation** | Selenium,Cypress, Appium |
-| **Languages** | Java, Python, JavaScript |
+| **Automation** | Selenium,Cypress |
+| **Languages** | Java, Python, C++, C# |
 | **Performance** | JMeter, K6 |
 | **API Testing** | Postman |
 | **Mobile** | Appium, BrowserStack |
@@ -25,8 +25,8 @@ I'm a passionate QA Engineer dedicated to breaking things so they work better fo
 
 ### 🛠️ What I'm Working On
 
-- 🔭 I’m currently improving my **Performance Testing** skills with K6.
-- 🌱 Learning more about **Security Testing (OWASP Top 10)**.
+- 🔭 I’m currently improving my **Automation Testing** skills.
+- 🌱 Learning more about **API Testing with Postman .**.
 - 👯 I’m looking to collaborate on **Open Source QA Frameworks**.
 - 💬 Ask me about **Shift-Left testing** or **TDD/BDD**.
 
